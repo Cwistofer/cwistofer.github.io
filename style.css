@@ -1,6 +1,5 @@
 body {
-  font-family: "Broadway", fantasy;
-  color: Teal;
+ 
   background-color: Yellow
 }
 
@@ -9,22 +8,3 @@ h1 {
   text-align: center;
 }
 
-table {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-  border-collapse: collapse;
-  cellspacing: 0 px;
-}
-
-td {
-  border: 1px solid Black;
-  text-align: center;
-  background-color: Purple;
-}
-
-th {
-  text-align: center;
-  color:#ff268a ;
-  background-color: Maroon
-}
