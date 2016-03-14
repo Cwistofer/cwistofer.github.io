@@ -8,3 +8,7 @@ button {
  background-color:Red;
  border-color:Purple;
 }
+button:active {
+  color:#ff188d;
+  background-color:Black;
+}
