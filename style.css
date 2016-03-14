@@ -1,9 +1,9 @@
 body {
- Color:White;
- text-align: Center;
+  color:White;
+  text-align: Center;
   background-color: Black
 }
 button {
-Color: Blue;
-Background-color:Red;
+ color: Blue;
+ background-color:Red;
 }
